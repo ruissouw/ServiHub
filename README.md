@@ -85,27 +85,27 @@ Follow the steps below to get this project running on your local machine.
 - Services are able to specify the information they require based on their template fields
 - The buttons are largely shadcn/ui tokens
 
-### Future Updates
+## Future Updates
 
-## Adding a new template via UI
+### Adding a new template via UI
 - A section with a form can be added in which services can specify their requirements
 - Not every template input needs to be asked for as some can be inferred
 - For example, to generate a template ID, simply take the name of the service, convert all to small letters and add '-' in the white spaces
 
-## Time Zone and Languages
+### Time Zone and Languages
 - Add a drop-down which allows users to select their home country
 - The time-zone switches accordinly and the language medium also changes automatically (though that can be toggled independently)
 
-## Resource Collision
+### Resource Collision
 - Services can specify limited resources which will be kept in mind when a booking is made
 - Automatically reject a booking if the resource is full
 
-## Block Certain Timings
+### Block Certain Timings
 - It is unfeasible for a tuition centre to operate 24/7
 - Services will be able to specify timings of their services
 
-## Messaging System
+### Messaging System
 - To improve clarity on why a booking is rejected/cancelled/rescheduled
 
-## Priority Status
+### Priority Status
 - Since some clients are more important/have more pressing needs than others
