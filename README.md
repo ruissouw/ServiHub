@@ -81,6 +81,7 @@ Follow the steps below to get this project running on your local machine.
 ### System Design
 - Tailwind was used for the navbar
 - React big calendar (RBC) was used for the calendar
+- RBC offers seamless toggling between views and is able to display events well
 - The booking form is a dynamic form based on a template specified by a service
 - Services are able to specify the information they require based on their template fields
 - The buttons are largely shadcn/ui tokens
