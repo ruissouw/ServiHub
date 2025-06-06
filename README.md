@@ -2,6 +2,9 @@
 ServiHub serves dozens of industries—tuition centres, salons, clinics, studios—each with
 wildly different scheduling needs. It is a platform where clients can make bookings for services which can accept or reject their requests.
 
+## Video Demonstration
+https://youtu.be/gOB_e0aBjzQ
+
 ## Features
 - Create a booking for a particular service
 - View the status of your booking
